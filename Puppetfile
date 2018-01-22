@@ -9,6 +9,10 @@ mod "puppet/hiera",           '2.4.0'
 mod "npwalker/pe_code_manager_webhook",  '2.0.1'
 mod "npwalker/pe_metric_curl_cron_jobs", '4.0.0'
 
+mod 'alexharvey-firewall_multi', '1.10.0'
+mod 'puppetlabs-firewall', '1.11.0'
+
+
 # Modules from Github using various references
 # Further examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 # update the tag to the most current release when implementing
