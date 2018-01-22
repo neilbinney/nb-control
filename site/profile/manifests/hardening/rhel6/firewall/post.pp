@@ -22,5 +22,3 @@ class profile::hardening::rhel6::firewall::post {
     action => 'drop',
   }
 }
-
-}
